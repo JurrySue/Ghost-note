@@ -1,0 +1,2 @@
+# Ghost-note
+Just simple.
